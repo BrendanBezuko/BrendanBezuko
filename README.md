@@ -42,7 +42,7 @@ This project is getting super complex and as I’m writing this we just hit 100 
 
 ### ☁️ Cloud & Infrastructure
 - Extremely knowledgeable about cloud suites including GCP, AWS, and Azure. I’ve been using these platforms since they came out.
-- Huge Linux nerd with experience setting up thousands of labs and real applications including LAMP stacks, WordPress deployments, and more (I use Arch BTW (JK Macbook now)).
+- Huge Linux nerd with experience setting up thousands of labs and real applications including LAMP stacks, WordPress deployments, and more (I use Arch BTW, JK I got into the M Macbooks recently)).
 - Strong hands-on experience with Entierprise solutions GitHub Actions, Cloud Marketplace, Compute Engine, Cloud Run, Pub/Sub, EC2, 
 - Strong foundation Ansible, Jenkins, and more.
 
