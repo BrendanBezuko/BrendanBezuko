@@ -16,7 +16,6 @@ Hi, I’m Brendan, a software engineer building practical web applications with 
 - Algorithms & Data Structures 1 & 2, University of Victoria
 - Computer Archeticture & Organization, University of Vicotria
 - Operating Systems, University of Victoria
-- Fundmentals of Program 1 & 2, Unviersity of Vicotria
 
 ## 🌐 Websites & Apps
 - [Eatspal.com](https://eatspal.com)  
