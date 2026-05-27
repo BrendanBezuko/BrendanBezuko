@@ -6,7 +6,7 @@
 
 Hi, I’m Brendan — a software engineer building practical web applications with a focus on clean architecture and scalable systems.
 
-I’m currently working on Eatspal.com, an application aimed at bringing nutritional intelligence to everyone by improving text-to-macros conversion through hybrid AI architectures. I’m actively integrating and learning LangChain as part of this effort, while also exploring new developments in the AI space.
+I’m currently working on [Eatspal.com](https://eatspal.com), an application aimed at bringing nutritional intelligence to everyone by improving text-to-macros conversion through hybrid AI architectures. I’m actively integrating and learning LangChain as part of this effort, while also exploring new developments in the AI space.
 
 Alongside product work, I’m preparing for the Google Cloud Associate Cloud Engineer (ACE) certification to strengthen my cloud infrastructure skills, particularly around deployment, networking, and managed services on GCP.
 
