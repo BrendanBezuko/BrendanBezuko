@@ -32,34 +32,6 @@ Hi, I’m Brendan, a software engineer building practical web applications with 
 
 - [RidiculousUI](https://brendanbezuko.github.io/RidiculousUi/)  
   I built this pre-AI and originally planned to fully develop it into a shadcn/ui competitor before shifting focus onto bigger things.
-
-## 🧠 Current Focus
-I’m currently working on [Eatspal.com](https://eatspal.com), an application aimed at bringing nutritional intelligence to everyone by improving text-to-macros conversion through hybrid AI architectures.
-
-This project is getting super complex and as I’m writing this we just hit 100 active users. 🎉
-
-## 💼 Open to Work
-
-### ☁️ Cloud & Infrastructure
-- Extremely knowledgeable about cloud suites including GCP, AWS, and Azure. I’ve been using these platforms since they came out.
-- Huge Linux nerd with experience setting up thousands of labs and real applications including LAMP stacks, WordPress deployments, and more (I use Arch BTW, JK I got into the M Macbooks recently)).
-- Strong hands-on experience with Entierprise solutions GitHub Actions, Cloud Marketplace, Compute Engine, Cloud Run, Pub/Sub, EC2, 
-- Strong foundation Ansible, Jenkins, and more.
-
-### 🤖 AI & Machine Learning
-- Grounded in AI fundamentals with coursework in CNNs dating back to 2015.
-- Strong with prompting (Cursor), system architecture, algorithms, and data structures to accelerate development.
-- Love integrating AI into real products using LangChain, Vertex AI, and OpenAI APIs, see [EatsPal.com](https://eatspal.com)
-
-### 🌍 Frontend & Web Apps
-- Deep experience building complex frontend applications whether we’re talking about SSR or advanced React apps with heavy side effects and observables.
-- First courses/boot camps on React as early as 2015.
-- Strong understanding of browser internals and application architecture.
-
-### 🔐 Security
-- Hands-on experience with OAuth, IAM, RBAC, SELinux, and the basics of pentesting with Kali.
-- First course/boot camps as early as 2015.
-
 ### 🔧 Hardware & Electronics
 - Component-level electronics repair.
 - Built a voice controlled wleding machine using rapsberry in a collaberation with a local small business
