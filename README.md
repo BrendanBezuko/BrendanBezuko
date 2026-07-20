@@ -35,11 +35,3 @@ Hi, I’m Brendan, a software engineer building practical web applications with 
 
 - [Vibes Alberta](https://brendanbezuko.github.io/VibesAlberta/)
   Silly Game to play
-  
-### 🔧 Hardware & Electronics
-- Component-level electronics repair.
-- Built a voice controlled wleding machine using rapsberry in a collaberation with a local small business
-- Expirence with STM32, Arduino, Raspberry Pi, JLCPCB, and more.
-
-
-Feel free to explore my repositories and reach out if you want to collaborate or work together.
