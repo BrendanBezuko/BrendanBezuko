@@ -14,6 +14,6 @@
 
 - [Flash Cards](https://brendanbezuko.github.io/flash-cards/) - A local flash card app using IndexedDB, with LLM assistance (i plan to make this more robust to learn as you make mistakes and enhance your learnign expirence).
 
-- [CLI-GPT](https://github.com/BrendanBezuko/cli-gpt) - A version newer a curses interface for my old one line llm in terminal posted in 2022.
+- [CLI-GPT](https://github.com/BrendanBezuko/cli-gpt) - A newer version of my old one line llm in terminal posted in 2022, with new curses interface.
 
 - [Vibes Alberta](https://brendanbezuko.github.io/VibesAlberta/) - Silly Game to play
