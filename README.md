@@ -6,32 +6,14 @@
 ![](https://raw.githubusercontent.com/brendanbezuko/github-stats/master/generated/overview.svg#gh-light-mode-only)
 ![](https://raw.githubusercontent.com/brendanbezuko/github-stats/master/generated/languages.svg#gh-light-mode-only)
 
-Hi, I’m Brendan, a software engineer building practical web applications with a focus on clean architecture and scalable systems. 🚀
+- [Eatspal.com](https://eatspal.com) - Ai Orchistration Workflow Assisted UX for macro counting and diet feedback with MCP on Web, IOS, & Android.
 
-## 📜 Certifications & Courses
+- [Website Theme Augmenter](https://github.com/BrendanBezuko/Website-Theme-Augmenter) - LLM coded chrome plugin that restyles YouTube, Facebook, Twitter/X, and LinkedIn as a neon phosphor HUD — dark void, electric green, glass panels — with a shared session timer and optional Shorts/Reels hiding.
 
-- Google Associate Cloud Engineer
-- CompTIA Security+
+- [Montage Editor](https://github.com/BrendanBezuko/Ai-Video-Montage-workflow) - AI-assisted cinematic montage pipeline for drone footage → DaVinci Resolve
 
-- Algorithms & Data Structures 1 & 2, University of Victoria
-- Computer Archeticture & Organization, University of Vicotria
-- Operating Systems, University of Victoria
+- [Flash Cards](https://brendanbezuko.github.io/flash-cards/) - A local flash card app using IndexedDB, with LLM assistance (i plan to make this more robust to learn as you make mistakes and enhance your learnign expirence).
 
-## 🌐 Websites & Apps
-- [Eatspal.com](https://eatspal.com)  
-  This is seriously the future of AI nutrition tracking and I’m improving it every day.
+- [CLI-GPT](https://github.com/BrendanBezuko/cli-gpt) - A version newer a curses interface for my old one line llm in terminal posted in 2022.
 
-- [Flash Cards](https://brendanbezuko.github.io/flash-cards/)  
-  A local flash card app using IndexedDB.
-
-- [CLI-GPT](https://github.com/BrendanBezuko/cli-gpt)  
-  My favorite way to use LLMs in the terminal since 2022.
-
-- [MarmotMarketing.ca](https://marmotmarketing.ca)  
-  Need a website? I offer websites starting at just $99.
-
-- [RidiculousUI](https://brendanbezuko.github.io/RidiculousUi/)  
-  I built this pre-AI and originally planned to fully develop it into a shadcn/ui competitor before shifting focus onto bigger things.
-
-- [Vibes Alberta](https://brendanbezuko.github.io/VibesAlberta/)
-  Silly Game to play
+- [Vibes Alberta](https://brendanbezuko.github.io/VibesAlberta/) - Silly Game to play
