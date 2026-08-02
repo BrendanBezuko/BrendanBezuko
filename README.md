@@ -30,3 +30,5 @@ Dev Tools:
 
 - [CLI-GPT](https://github.com/BrendanBezuko/cli-gpt) - A newer version of my old one line llm in terminal posted in 2022, with new curses interface.
 
+- [Domain name finder agent](https://github.com/BrendanBezuko/domain_agent) - Need a new domain name mine one with this agent.
+
