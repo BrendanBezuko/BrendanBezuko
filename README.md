@@ -16,8 +16,8 @@ Outside of work, I build open source projects across AI, mobile apps, browser ex
 
 ## Certs
 
-Google Associates Cloud Engineer
-Computer science coursework Uvic
+- Google Associates Cloud Engineer
+- Computer science coursework Uvic
 
 ## Projects
 
