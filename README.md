@@ -6,29 +6,65 @@
 ![](https://raw.githubusercontent.com/brendanbezuko/github-stats/master/generated/overview.svg#gh-light-mode-only)
 ![](https://raw.githubusercontent.com/brendanbezuko/github-stats/master/generated/languages.svg#gh-light-mode-only)
 
-- [Eatspal.com](https://eatspal.com) - Ai Orchistration Workflow Assisted UX for macro counting and diet feedback with MCP on Web, IOS, & Android.
+# Hi, I'm Brendan 👋
 
-- [Montage Editor](https://github.com/BrendanBezuko/Ai-Video-Montage-workflow) - AI-assisted cinematic montage pipeline for drone footage → DaVinci Resolve
+I'm a Full Stack Software Developer focused on building AI-powered applications, cloud-native systems, and developer tools.
 
-- [Flash Cards](https://brendanbezuko.github.io/flash-cards/) - A local flash card app using IndexedDB, with LLM assistance (i plan to make this more robust to learn as you make mistakes and enhance your learnign expirence).
+I have professional experience building production software with React, Django, PostgreSQL, Google Cloud, AWS, and modern AI technologies. I enjoy taking ideas from concept to deployed products, especially projects involving LLMs, automation, and unique user experiences.
 
-Modded/Forked Android Apps:
+Outside of work, I build open source projects across AI, mobile apps, browser extensions, games, and experimental UI. I like exploring new technologies by actually building things with them.
 
-- [XLauncher](https://github.com/BrendanBezuko/XLauncher) - A CLauncher (Olauncher fork) fork, that gives a unique fallout 4 look and feel with additional styling options
+## Certs
 
-- [Buxio](https://github.com/BrendanBezuko/Buxio) - An Auxio Fork with additional 3rd party services
+Google Associates Cloud Engineer
+Computer science coursework Uvic
 
-Games:
+## Projects
 
-- [Vibes Alberta](https://brendanbezuko.github.io/VibesAlberta/) - Silly defense Game to play, launch it live here 
+### 🍽️ [EatsPal](https://eatspal.com)
+AI-powered nutrition platform for Web, iOS, and Android that uses LLM orchestration, semantic search, and automated workflows to help users track meals, calories, and macros.
 
-Chrome plugins:
+### 🎬 [AI Video Montage Workflow](https://github.com/BrendanBezuko/Ai-Video-Montage-workflow)
+AI-assisted cinematic editing pipeline that turns drone footage into organized DaVinci Resolve editing workflows.
 
-- [Website Theme Augmenter](https://github.com/BrendanBezuko/Website-Theme-Augmenter) - LLM coded chrome plugin that restyles YouTube, Facebook, Twitter/X, and LinkedIn as a neon phosphor HUD — dark void, electric green, glass panels — with a shared session timer and optional Shorts/Reels hiding.
+### 🧠 [Flash Cards](https://brendanbezuko.github.io/flash-cards/)
+Offline-first flash card application using IndexedDB with plans for adaptive AI-powered learning.
 
-Dev Tools:
+## Android Apps
 
-- [CLI-GPT](https://github.com/BrendanBezuko/cli-gpt) - A newer version of my old one line llm in terminal posted in 2022, with new curses interface.
+### 📱 [XLauncher](https://github.com/BrendanBezuko/XLauncher)
+A customized CLauncher/Olauncher fork with a Fallout-inspired design and additional customization options.
 
-- [Domain name finder agent](https://github.com/BrendanBezuko/domain_agent) - Need a new domain name mine one with this agent.
+### 🎵 [Buxio](https://github.com/BrendanBezuko/Buxio)
+A modified Auxio music player fork with additional integrations and improvements.
 
+## Developer Tools
+
+### 💻 [CLI-GPT](https://github.com/BrendanBezuko/cli-gpt)
+Terminal-based AI assistant with an interactive curses interface.
+
+### 🌐 [Domain Name Finder Agent](https://github.com/BrendanBezuko/domain_agent)
+AI agent for generating and evaluating domain name ideas.
+
+## Browser Extensions
+
+### 🟢 [Website Theme Augmenter](https://github.com/BrendanBezuko/Website-Theme-Augmenter)
+Chrome extension that transforms popular websites into a neon HUD-style interface with productivity features.
+
+## Games
+
+### 🎮 [Vibes Alberta](https://brendanbezuko.github.io/VibesAlberta/)
+A small browser-based defense game built as a fun side project.
+
+## UI Experiments
+
+### 💀 [Doomify](https://github.com/BrendanBezuko/Doomify)
+Experiment exploring how AI can transform application interfaces into a DOOM-inspired visual style.
+
+### 🎨 [Ridiculous UI](https://github.com/BrendanBezuko/RidiculousUi)
+An experimental UI component library exploring unconventional interface ideas.
+
+## Hardware
+
+### 🚀 [Model Rocket Launch Pad](https://github.com/BrendanBezuko/ModelRocketLauncher)
+A pre-AI era hardware project for a model rocket launch controller.
