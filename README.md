@@ -14,57 +14,45 @@ I have professional experience building production software with React, Django, 
 
 Outside of work, I build open source projects across AI, mobile apps, browser extensions, games, and experimental UI. I like exploring new technologies by actually building things with them.
 
-## Certs
+## Certifications & Education
 
-- Google Associates Cloud Engineer
-- Computer science coursework Uvic
+- Google Associate Cloud Engineer
+- Computer Science coursework completed at the University of Victoria
 
 ## Projects
 
-### 🍽️ [EatsPal](https://eatspal.com)
-AI-powered nutrition platform for Web, iOS, and Android that uses LLM orchestration, semantic search, and automated workflows to help users track meals, calories, and macros.
+- [EatsPal.com](https://eatspal.com) - AI nutrition platform using LLM orchestration workflows and assisted UX for macro counting, diet feedback, and personalized nutrition guidance across Web, iOS, and Android.
 
-### 🎬 [AI Video Montage Workflow](https://github.com/BrendanBezuko/Ai-Video-Montage-workflow)
-AI-assisted cinematic editing pipeline that turns drone footage into organized DaVinci Resolve editing workflows.
+- [Montage Editor](https://github.com/BrendanBezuko/Ai-Video-Montage-workflow) - AI-assisted cinematic montage pipeline for drone footage that helps organize footage and create DaVinci Resolve editing workflows.
 
-### 🧠 [Flash Cards](https://brendanbezuko.github.io/flash-cards/)
-Offline-first flash card application using IndexedDB with plans for adaptive AI-powered learning.
+- [Flash Cards](https://brendanbezuko.github.io/flash-cards/) - A local flash card app using IndexedDB with LLM assistance. Planning to make it more robust by adapting to mistakes and improving the learning experience.
 
-## Android Apps
+Modded/Forked Android Apps:
 
-### 📱 [XLauncher](https://github.com/BrendanBezuko/XLauncher)
-A customized CLauncher/Olauncher fork with a Fallout-inspired design and additional customization options.
+- [XLauncher](https://github.com/BrendanBezuko/XLauncher) - A CLauncher/Olauncher fork that gives a unique Fallout 4-inspired look and feel with additional styling options stops being as minimalistic but gives a phone a unique 40s-70s style tv effect while respecting OLed efficiency.
 
-### 🎵 [Buxio](https://github.com/BrendanBezuko/Buxio)
-A modified Auxio music player fork with additional integrations and improvements.
+- [Buxio](https://github.com/BrendanBezuko/Buxio) - An Auxio fork with additional third-party Ai services and improvements.
 
-## Developer Tools
+Games:
 
-### 💻 [CLI-GPT](https://github.com/BrendanBezuko/cli-gpt)
-Terminal-based AI assistant with an interactive curses interface.
+- [Vibes Alberta](https://brendanbezuko.github.io/VibesAlberta/) - A silly defense game built as a fun side project. Play it live here.
 
-### 🌐 [Domain Name Finder Agent](https://github.com/BrendanBezuko/domain_agent)
-AI agent for generating and evaluating domain name ideas.
+Chrome Plugins:
 
-## Browser Extensions
+- [Website Theme Augmenter](https://github.com/BrendanBezuko/Website-Theme-Augmenter) - An LLM-coded Chrome plugin that restyles YouTube, Facebook, Twitter/X, and LinkedIn as a neon phosphor HUD with a dark void aesthetic, electric green accents, glass panels, a shared session timer, and optional Shorts/Reels hiding.
 
-### 🟢 [Website Theme Augmenter](https://github.com/BrendanBezuko/Website-Theme-Augmenter)
-Chrome extension that transforms popular websites into a neon HUD-style interface with productivity features.
+Dev Tools:
 
-## Games
+- [CLI-GPT](https://github.com/BrendanBezuko/cli-gpt) - A newer version of my original one-line LLM terminal tool from 2022, rebuilt with a curses interface.
 
-### 🎮 [Vibes Alberta](https://brendanbezuko.github.io/VibesAlberta/)
-A small browser-based defense game built as a fun side project.
+- [Domain Name Finder Agent](https://github.com/BrendanBezuko/domain_agent) - An AI agent for finding new domain names and helping generate ideas.
 
-## UI Experiments
+Hardware:
 
-### 💀 [Doomify](https://github.com/BrendanBezuko/Doomify)
-Experiment exploring how AI can transform application interfaces into a DOOM-inspired visual style.
+- [Rocket Launch Pad](https://github.com/BrendanBezuko/ModelRocketLauncher) - A pre-AI development project for a model rocket launch pad.
 
-### 🎨 [Ridiculous UI](https://github.com/BrendanBezuko/RidiculousUi)
-An experimental UI component library exploring unconventional interface ideas.
+UI:
 
-## Hardware
+- [Doomify](https://github.com/BrendanBezuko/Doomify) - LLM instructions for transforming interfaces to look more like the DOOM (2022) video game interface.
 
-### 🚀 [Model Rocket Launch Pad](https://github.com/BrendanBezuko/ModelRocketLauncher)
-A pre-AI era hardware project for a model rocket launch controller.
+- [Ridiculous UI](https://github.com/BrendanBezuko/RidiculousUi) - A mostly pre-AI UI component library for NuxtJS.
