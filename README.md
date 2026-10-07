@@ -1,6 +1,6 @@
 ## Projects
 
-- [Andvibe](https://andvibe.org) - LLM Android IDE, build FOSS Android applications directly on Android devices.
+- [Andvibe](https://andvibe.org) - LLM Android IDE/Ai build pipeline, build Android applications directly on Android devices.
 
 - [EatsPal.com](https://eatspal.com) - AI nutrition platform using LLM orchestration workflows and assisted UX for macro counting, diet feedback, and personalized nutrition guidance across Web, iOS, and Android.
 
