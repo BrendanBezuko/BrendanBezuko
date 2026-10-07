@@ -20,4 +20,4 @@ Tools:
 
 - [CLI-GPT 2022](https://github.com/BrendanBezuko/cli-gpt) - A newer version of my original one-line LLM terminal tool from 2022 (the very first time i used openai's api), rebuilt with a curses interface.
 
-- [Domain Name Finder Agent](https://github.com/BrendanBezuko/domain_agent) - An AI agent for finding new domain names and helping generate ideas.
+- [Domain Name Finder Agent](https://github.com/BrendanBezuko/domain_agent) - An AI agent for finding new domain names and checking availability. 
