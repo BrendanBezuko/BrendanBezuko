@@ -1,3 +1,8 @@
+## profile website
+
+[BrendanBezuko.com](https://brendanbezuko.com)
+
+
 ## Projects
 
 - [Andvibe](https://andvibe.org) - LLM Android IDE/Ai build pipeline, build Android applications directly on Android devices.
@@ -18,6 +23,6 @@ Chrome Plugins:
 
 Tools:
 
-- [CLI-GPT 2022](https://github.com/BrendanBezuko/cli-gpt) - A newer version of my original one-line LLM terminal tool from 2022 (the very first time i used openai's api), rebuilt with a curses interface.
+- [CLI-GPT 2022](https://github.com/BrendanBezuko/cli-gpt) - A newer version of my original one-line LLM terminal tool from 2022 (the very first time i used openai's api), rebuilt with a curses interface. This project aged well, considering Claude code ending up being just a more advance version of my original idea
 
 - [Domain Name Finder Agent](https://github.com/BrendanBezuko/domain_agent) - An AI agent for finding new domain names and checking availability. 
